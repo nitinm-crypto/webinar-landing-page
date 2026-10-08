@@ -1,0 +1,43 @@
+{
+  "metaTitle": "AI-Powered Test Management",
+  "tagline": "Exclusive Webinar",
+  "heroTitle": "AI-Powered Test Management: Scale Quality, Accelerate Releases",
+  "heroDescription": "Discover how AI can cut test authoring time, unify manual + automated testing, and give QA leaders real-time insights.",
+  "eventDate": "23rd April 2026",
+  "eventTime": "10:00 AM IST",
+  "formHeader": "Register now to secure your seat",
+  "ctaButtonText": "Save My Spot",
+  "speakers": [
+    {
+      "name": "Aman Kumar",
+      "title": "Testing Strategist",
+      "company": "BrowserStack",
+      "photoUrl": "https://via.placeholder.com/80"
+    },
+    {
+      "name": "Pratik Thakur",
+      "title": "Senior SDE",
+      "company": "BrowserStack",
+      "photoUrl": "https://via.placeholder.com/80"
+    }
+  ],
+  "mainSectionTitle": "Accelerate Your QA Lifecycle with AI-Driven Test Management",
+  "contentBlocks": [
+    {
+      "title": "AI-Assisted Authoring & Execution",
+      "description": "See how AI-generated test cases and automated execution help QA teams cope with shrinking windows."
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "title": "Instant Authoring",
+      "detail": "How to use AI to generate test cases from requirements in seconds."
+    }
+  ],
+  "discussionPoints": [
+    "Common challenges in rapid release cycles",
+    "Transitioning from fragmented tools to unified workflows"
+  ],
+  "footerTitle": "Don't miss out !",
+  "footerDescription": "If you're managing QA teams, you'll want to be a part of our Webinar."
+}
