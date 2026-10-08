@@ -2,9 +2,9 @@
   "name": "webinar-template-builder",
   "version": "1.0.0",
   "scripts": {
-    "build": "handlebars template.html -f data.json -o index.html"
+    "build": "node build.js"
   },
-  "devDependencies": {
-    "handlebars-cli": "^0.2.0"
+  "dependencies": {
+    "handlebars": "^4.7.8"
   }
 }
